@@ -1,2 +1,2 @@
 # tempo-client
-A python client to Tempo Timesheet REST API
+A Python client to Tempo Timesheet REST API
